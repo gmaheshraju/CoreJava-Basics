@@ -1,0 +1,35 @@
+String indexOf() :returns the first occuurance of specified character, if not found -1 will be return
+
+Syntax:
+public int indexOf(int ch )
+Parameters:
+ch : a character.
+
+String indexOf(char ch, int strt ) : returns the first occuurance of specified character starting from index position(strt paramter)
+, if not found -1 will be return
+
+Syntax:
+public int indexOf(int ch, int strt)
+Parameters:
+ch :a character.
+strt : the index to start the search from.
+
+
+String indexOf(String str) : returns the first occuurance of specified String, if not found -1 will be return
+
+Syntax:
+int indexOf(String str)
+Parameters:
+str : a string.
+
+String indexOf(String str,int strt) : returns the first occuurance of specified String starting from index position(strt paramter)
+, if not found -1 will be return
+
+Syntax:
+int indexOf(String str, int strt)
+Parameters:
+strt: the index to start the search from.
+str : a string.
+
+
+
